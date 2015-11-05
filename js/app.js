@@ -1,5 +1,5 @@
 'use strict';
-var ultimoURL='http://127.0.0.1/datos2.php';
+var ultimoURL='http://10.25.33.242/datos2.php';
 var app = {
 	init: function() {
 		// DATOS INICIALES

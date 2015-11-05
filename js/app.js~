@@ -3,6 +3,10 @@ var ultimoURL='http://127.0.0.1/datos2.php';
 var app = {
 	init: function() {
 		// DATOS INICIALES
+		$('#btnReconectar').click(function(e){
+			e.preventDefault();
+			app.prueba();
+		});
 		app.prueba();
 	},
 	efecto: function(obj) {
