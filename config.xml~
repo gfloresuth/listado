@@ -7,8 +7,6 @@
     <author email="gflores@uthermosillo.edu.mx" href="http://darkuskyo.net/">
         TIC Universidad Tecnologica de Hermosillo
     </author>
-    <plugin name="NetworkStatus" value="org.apache.cordova.NetworkManager" />
-
     <preference name="orientation" value="portrait" />
     <icon src="icon.png"/>
     <content src="index.html" />
